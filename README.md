@@ -4,7 +4,7 @@ Carpincho is a tool to classify emails, process them and manipulate the attachme
 ## Features
   - Classify emails based on filters
   - Download attachments to specific locations depending on the source
-  - Manupulate the downloaded attachemnts (most often used to get the files ready to be ingested into a database)
+  - Manupulate the downloaded attachments (most often used to get the files ready to be ingested into a database)
 
 
 ## Requirements

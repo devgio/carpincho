@@ -9,7 +9,6 @@ Carpincho is a tool to classify emails, process them and manipulate the attachme
 
 ## Requirements
 * O365==2.0.11
-* colorama==0.4.4
 
 
 ## Use
